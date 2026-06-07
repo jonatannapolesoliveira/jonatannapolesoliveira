@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jonatan Napoles Oliveira 
+# Jonatan Napoles Oliveira | J. N. Oliveira
 
 ### Computer Engineering Student • Technology Educator • Software Developer • Cybersecurity Enthusiast
 
