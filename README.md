@@ -1,27 +1,27 @@
+# 👨‍💻 Jonatan Napoles Oliveira ¦ J. N. Oliveira
 
-### What's the story? 😀
+Computer Engineering Student | Technology Educator | Software Developer | Lifelong Learner
 
-👨‍💻 I am a software developer with an Advanced Certificate in Software Development at Citeforma.
+## Technologies
 
-🎓 I am studying for a Bachelor´s Degree in Software Engineer at UAB.
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+## Areas of Interest
 
-📃 My background is in full-stack development.
+- 🔐 Cybersecurity
+- 🤖 Artificial Intelligence
+- ⚛️ Quantum Computing
+- 📐 Mathematics
+- 💻 Software Engineering
+- 📚 Technology Education
 
-🌱 I am developing my Cybersecurity, Python, and Laravel Ecosystem skills.
+## Current Mission
 
-🔭 I am currently working my portfolio and community research projects.
+Building innovative technology solutions while advancing my knowledge in engineering, science, and education.
 
-🏆 I aim to become a Senior Developer in 3 years.
-
-🔎 I am available to collaborate in developing professional websites and databases as a computer programmer position.
-
-🌍 I have valuable international experience, I worked in Argentina, Brazil, Portugal, Switzerland and Ireland.
-
-📫 I can be reached on [Linkedin](https://www.linkedin.com/in/jn-oliveira/).
-
-<p align="left">
-  <a href="https://github.com/jonasnapoles"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasnapoles&show_icons=true&theme=gotham">
-  <a href="https://github.com/jonasnapoles"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasnapoles&hide=html,css&langs_count=10&layout=compact&theme=gotham">
-</p>
-
+> Lifelong learner. Always curious. Always building.
